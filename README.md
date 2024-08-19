@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Maksim Shcherbakov
+## Hi there! I'm Maksim Shcherbakov 👋
 I aspire to become a strong Machine Learning Engineer.
 
 
