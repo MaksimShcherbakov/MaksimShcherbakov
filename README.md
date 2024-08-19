@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I'm Maksim Shcherbakov
+I aspire to become a strong Machine Learning Engineer.
+
 
 <!--
 **MaksimShcherbakov/MaksimShcherbakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
