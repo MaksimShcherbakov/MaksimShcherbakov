@@ -2,7 +2,9 @@
 I aspire to become a strong Machine Learning Engineer.
 
 Languages: Python, SQL, JS
+
 Frameworks: PyTorch, PySpark, Nest
+
 Libraries: Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, 
 <!--
 **MaksimShcherbakov/MaksimShcherbakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
